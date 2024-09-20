@@ -1,5 +1,5 @@
 # Weighted Depth First Search
-I have used a dicionary to store the nodes with their distance values from the connecting nodes.
+I have used a dicionary to store the nodes with their distance values from the connecting nodes
 Sorting function is used to arrange the 2D lists in ascending order
 Acending order function is used to convert the 2D list in 1D list
 I have used a stack which uses LIFO technique
